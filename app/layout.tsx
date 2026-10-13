@@ -49,8 +49,8 @@ export const metadata: Metadata = {
       'max-video-preview': -1,
     },
   },
-  // After you verify the site in Google Search Console, paste the token here:
-  // verification: { google: 'YOUR_TOKEN' },
+  // Google Search Console verification token
+  verification: { google: 'V6EbkP28388IMg5cmdxRvwZuV8t5SXuqSaSi1nfF0Lg' },
   keywords: [
     profile.name,
     'UI/UX designer',
